@@ -820,7 +820,7 @@ img {
 
 .modal-form-checkbox:checked + .modal-form-checkbox-label::before {
   display: block;
-  background-image: url(/images/iconcheck.png);
+  background-image: url("../images/iconcheck.png");
   width: 16px;
   height: 15px;
   border: none;
